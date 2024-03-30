@@ -69,5 +69,13 @@ namespace GuiPremier
                 MessageBox.Show("Premier not found!");
             }
         }
+
+        private void ListBox1_SelectedValueChanged(object sender, EventArgs e)
+        {
+            if (listBox1.SelectedItem != null)
+            {
+                UpdateGui(listBox1.SelectedItem.ToString());
+            }
+        }
     }
 }
