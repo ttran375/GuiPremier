@@ -1,4 +1,14 @@
-# See course shell for due date.
+# The Premier Application
+
+<img src="./media/image1.png" style="width:3.70833in;height:2.8125in" />You
+will use a Dictionary to drive this application. The Key will be the
+last name of the premier (there is a method in the Premier class that
+generated a key) and the value will be the premier object. The images
+are in a folder on the p drive. The images are named also by the
+premier’s last name.
+
+You should use the file **Premier.cs** file. \[See appendix for the
+logic for the Premier class\]
 
 ### PictureBox
 
@@ -54,18 +64,6 @@ The items can be added at design time or at runtime.
 > **lslPremier.SelectedItem.ToString(); //give the selected item**
 >
 > **lslPremier.SelectedItems; //returns an array of items**
-
-# The Premier Application
-
-<img src="./media/image1.png" style="width:3.70833in;height:2.8125in" />You
-will use a Dictionary to drive this application. The Key will be the
-last name of the premier (there is a method in the Premier class that
-generated a key) and the value will be the premier object. The images
-are in a folder on the p drive. The images are named also by the
-premier’s last name.
-
-You should use the file **Premier.cs** file. \[See appendix for the
-logic for the Premier class\]
 
 ## Additions to your Form1.cs file:
 
