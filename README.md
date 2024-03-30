@@ -1,7 +1,8 @@
 # The Premier Application
 
-<img src="./media/image1.png" style="width:3.70833in;height:2.8125in" />You
-will use a Dictionary to drive this application. The Key will be the
+<img src="./media/image1.png" style="width:3.70833in;height:2.8125in" />
+
+You will use a Dictionary to drive this application. The Key will be the
 last name of the premier (there is a method in the Premier class that
 generated a key) and the value will be the premier object. The images
 are in a folder on the p drive. The images are named also by the
